@@ -46,7 +46,7 @@ for i in range(len(X)):
 m=num/denom
 
 # calculate intercept
-b=Y_mean-m*X-mean
+b=Y_mean-m*X_mean
 print(m,b)
 
 # line equation
@@ -61,7 +61,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](/output.png)
 
 
 ## Result:
