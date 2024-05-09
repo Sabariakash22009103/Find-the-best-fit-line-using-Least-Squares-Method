@@ -61,7 +61,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](/output.png)
+<img src=output.png width=400 height=300 >
 
 
 ## Result:
